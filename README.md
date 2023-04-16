@@ -6,9 +6,10 @@
 * Python
 
 ### 3. 套件種類：
-* Pandas
-* NumPy
-* Matplotlib
+* Pandas => 處理資料用
+* NumPy => 處理矩陣用
+* Matplotlib => 繪圖用
+* Scikit-learn => 機器學習用
   
 
     
